@@ -1,0 +1,401 @@
+regiao;estado;temperatura;tempo;estacao;periodo_dia;dia_semana;pesquisa
+norte;RO;normal;nuvens;outono;noite;quinta;queijo
+norte;AM;quente;ceu claro;inverno;madrugada;quinta;lasanha
+nordeste;RN;quente;nuvens;primavera;manha;terca;queijo
+nordeste;BA;frio;ceu claro;inverno;madrugada;terca;morango
+centro-oeste;MT;quente;ceu claro;primavera;noite;domingo;laranja
+sul;RS;normal;ceu claro;outono;madrugada;domingo;morango
+norte;AP;frio;ceu claro;primavera;tarde;terca;bolonhesa
+nordeste;PI;quente;chuva;outono;manha;terca;bolo
+norte;PA;frio;chuva;inverno;madrugada;terca;uva
+nordeste;PI;normal;ceu claro;inverno;manha;domingo;bolonhesa
+nordeste;RN;frio;ceu claro;outono;madrugada;sabado;tapioca
+nordeste;PE;frio;ceu claro;verao;tarde;terca;bolo
+norte;AM;quente;ceu claro;primavera;tarde;segunda;panqueca
+nordeste;RN;quente;ceu claro;verao;madrugada;quinta;frango
+sul;PR;normal;nuvens;outono;manha;sexta;frango
+nordeste;SE;normal;chuva;inverno;manha;terca;bolo
+sudeste;RJ;frio;ceu claro;verao;noite;quarta;suco
+nordeste;AL;frio;ceu claro;primavera;madrugada;domingo;suco
+norte;RR;quente;nuvens;inverno;madrugada;segunda;suco
+sul;PR;frio;ceu claro;verao;madrugada;quarta;morango
+nordeste;MA;normal;ceu claro;inverno;noite;domingo;molho
+sul;RS;frio;nuvens;primavera;manha;terca;panqueca
+sul;SC;quente;chuva;outono;noite;segunda;suco
+sudeste;SP;quente;nuvens;primavera;noite;quinta;sopa
+norte;RO;normal;nuvens;outono;tarde;segunda;molho
+norte;PA;quente;ceu claro;outono;madrugada;terca;uva
+centro-oeste;MT;frio;nuvens;inverno;manha;segunda;queijo
+nordeste;PB;quente;ceu claro;primavera;noite;domingo;suco
+centro-oeste;GO;quente;nuvens;outono;noite;terca;queijo
+sul;SC;quente;ceu claro;verao;manha;terca;rocambole
+nordeste;PI;quente;ceu claro;inverno;manha;quarta;uva
+sudeste;ES;quente;ceu claro;inverno;madrugada;sexta;panqueca
+norte;AP;normal;nuvens;outono;noite;sexta;bolo
+norte;AP;normal;chuva;outono;tarde;quinta;lasanha
+centro-oeste;GO;quente;nuvens;outono;tarde;quarta;morango
+norte;PA;quente;chuva;verao;noite;domingo;lasanha
+norte;RR;normal;chuva;inverno;noite;terca;frango
+sul;PR;quente;ceu claro;inverno;noite;quarta;molho
+sudeste;ES;quente;ceu claro;verao;manha;sabado;queijo
+centro-oeste;MS;quente;ceu claro;outono;manha;sexta;bolo
+norte;TO;frio;ceu claro;primavera;madrugada;segunda;panqueca
+norte;RO;normal;ceu claro;primavera;manha;quinta;tapioca
+norte;AC;normal;ceu claro;verao;noite;quarta;uva
+sudeste;ES;frio;chuva;inverno;noite;sexta;panqueca
+norte;PA;quente;nuvens;verao;tarde;segunda;sopa
+sudeste;MG;normal;chuva;verao;tarde;quarta;molho
+sul;PR;normal;ceu claro;primavera;tarde;sabado;sopa
+norte;PA;quente;chuva;outono;manha;domingo;uva
+norte;AC;frio;nuvens;verao;noite;segunda;lasanha
+nordeste;AL;frio;nuvens;primavera;manha;quarta;bolo
+norte;RR;quente;ceu claro;inverno;noite;domingo;rocambole
+nordeste;PE;quente;chuva;primavera;tarde;quarta;tapioca
+norte;AC;normal;nuvens;verao;tarde;sabado;morango
+centro-oeste;DF;frio;ceu claro;primavera;manha;sabado;tapioca
+norte;RR;quente;nuvens;outono;noite;sabado;suco
+nordeste;PB;quente;nuvens;inverno;madrugada;sexta;panqueca
+nordeste;CE;normal;ceu claro;outono;noite;domingo;uva
+norte;AC;normal;chuva;primavera;manha;segunda;panqueca
+nordeste;PB;normal;chuva;primavera;noite;sexta;uva
+sudeste;SP;normal;ceu claro;verao;tarde;segunda;suco
+sul;RS;frio;nuvens;verao;tarde;domingo;panqueca
+sul;SC;quente;ceu claro;inverno;manha;quinta;frango
+norte;RO;normal;chuva;verao;tarde;terca;molho
+centro-oeste;MS;quente;nuvens;inverno;tarde;sabado;panqueca
+sul;RS;frio;nuvens;inverno;manha;quinta;panqueca
+norte;AC;frio;nuvens;outono;madrugada;sabado;morango
+norte;RR;normal;nuvens;inverno;tarde;quarta;molho
+sudeste;MG;normal;ceu claro;inverno;manha;sexta;morango
+centro-oeste;MS;frio;ceu claro;primavera;madrugada;sexta;laranja
+norte;AM;normal;chuva;inverno;noite;sabado;rocambole
+nordeste;PI;frio;nuvens;verao;noite;sabado;lasanha
+nordeste;PI;frio;chuva;primavera;tarde;sexta;sopa
+norte;AC;quente;nuvens;inverno;madrugada;segunda;sopa
+sul;SC;quente;chuva;inverno;noite;sexta;queijo
+nordeste;CE;normal;nuvens;verao;tarde;sabado;frango
+nordeste;BA;normal;nuvens;verao;manha;quarta;tapioca
+sudeste;RJ;normal;ceu claro;primavera;manha;segunda;suco
+nordeste;MA;frio;ceu claro;verao;madrugada;domingo;suco
+sul;PR;normal;nuvens;primavera;manha;sabado;frango
+nordeste;CE;quente;nuvens;outono;madrugada;sabado;panqueca
+nordeste;PE;normal;ceu claro;inverno;tarde;terca;rocambole
+centro-oeste;MT;frio;ceu claro;verao;noite;sabado;uva
+norte;AP;quente;ceu claro;verao;noite;terca;laranja
+nordeste;PI;normal;nuvens;outono;noite;domingo;bolonhesa
+nordeste;RN;frio;ceu claro;primavera;manha;sabado;frango
+sudeste;RJ;quente;nuvens;primavera;tarde;quarta;bolo
+centro-oeste;DF;normal;ceu claro;outono;madrugada;quarta;frango
+nordeste;AL;frio;chuva;inverno;manha;segunda;molho
+norte;TO;frio;chuva;outono;noite;quinta;sopa
+sudeste;MG;frio;chuva;primavera;noite;terca;frango
+nordeste;MA;normal;nuvens;inverno;madrugada;sabado;uva
+sudeste;RJ;frio;ceu claro;primavera;manha;segunda;uva
+norte;PA;frio;chuva;outono;tarde;segunda;panqueca
+norte;RO;frio;nuvens;primavera;tarde;domingo;morango
+sudeste;MG;normal;chuva;outono;manha;quarta;molho
+norte;AC;normal;ceu claro;outono;tarde;quarta;morango
+nordeste;MA;quente;nuvens;verao;madrugada;sabado;bolonhesa
+nordeste;AL;normal;chuva;inverno;madrugada;sexta;panqueca
+nordeste;PE;quente;chuva;outono;noite;sabado;morango
+centro-oeste;DF;frio;nuvens;outono;madrugada;domingo;rocambole
+centro-oeste;DF;quente;nuvens;inverno;madrugada;segunda;tapioca
+nordeste;AL;frio;chuva;verao;tarde;terca;suco
+centro-oeste;GO;quente;chuva;outono;noite;quarta;bolonhesa
+nordeste;PI;normal;ceu claro;verao;tarde;sabado;frango
+sudeste;SP;quente;nuvens;outono;noite;quinta;morango
+norte;AP;normal;chuva;verao;manha;terca;bolo
+sudeste;MG;normal;nuvens;outono;madrugada;quinta;molho
+sul;PR;normal;ceu claro;inverno;tarde;sabado;laranja
+norte;RO;frio;nuvens;verao;noite;terca;suco
+nordeste;BA;normal;nuvens;outono;tarde;domingo;frango
+nordeste;PB;quente;ceu claro;outono;madrugada;terca;tapioca
+centro-oeste;MT;normal;nuvens;verao;madrugada;segunda;lasanha
+norte;AM;quente;nuvens;primavera;noite;quarta;sopa
+norte;PA;frio;nuvens;outono;noite;domingo;tapioca
+norte;RO;quente;chuva;verao;noite;sabado;laranja
+centro-oeste;DF;normal;chuva;verao;noite;terca;morango
+sudeste;ES;quente;ceu claro;inverno;noite;terca;laranja
+nordeste;AL;frio;nuvens;inverno;tarde;terca;rocambole
+sudeste;SP;normal;nuvens;outono;madrugada;sexta;tapioca
+norte;PA;frio;ceu claro;primavera;manha;terca;queijo
+nordeste;RN;frio;chuva;primavera;noite;domingo;molho
+norte;AP;normal;nuvens;inverno;noite;terca;rocambole
+sudeste;SP;normal;chuva;primavera;manha;terca;frango
+centro-oeste;MS;quente;nuvens;verao;manha;sexta;rocambole
+sul;RS;quente;ceu claro;primavera;noite;domingo;frango
+norte;AC;frio;ceu claro;outono;madrugada;quarta;bolo
+nordeste;SE;frio;nuvens;inverno;tarde;quinta;laranja
+sudeste;SP;normal;chuva;inverno;tarde;terca;bolo
+norte;AP;normal;ceu claro;primavera;tarde;segunda;bolo
+centro-oeste;MS;normal;ceu claro;verao;noite;sexta;rocambole
+nordeste;PI;quente;ceu claro;verao;noite;segunda;frango
+sudeste;SP;quente;nuvens;primavera;noite;quinta;lasanha
+nordeste;AL;quente;ceu claro;outono;noite;domingo;frango
+centro-oeste;MS;frio;ceu claro;verao;madrugada;segunda;suco
+norte;RR;quente;chuva;verao;noite;sabado;bolonhesa
+nordeste;MA;quente;ceu claro;inverno;manha;domingo;molho
+nordeste;BA;normal;chuva;primavera;tarde;terca;molho
+nordeste;CE;frio;chuva;inverno;tarde;segunda;queijo
+sudeste;RJ;quente;chuva;primavera;noite;sabado;frango
+sudeste;ES;frio;nuvens;outono;madrugada;sabado;bolonhesa
+nordeste;MA;normal;nuvens;outono;noite;terca;lasanha
+sul;SC;quente;chuva;primavera;tarde;terca;queijo
+nordeste;BA;quente;chuva;outono;madrugada;quarta;panqueca
+nordeste;RN;normal;chuva;verao;tarde;domingo;sopa
+nordeste;CE;frio;chuva;inverno;manha;sexta;suco
+sudeste;ES;frio;ceu claro;inverno;tarde;quarta;tapioca
+nordeste;PI;frio;ceu claro;outono;tarde;quarta;sopa
+sudeste;ES;normal;nuvens;verao;tarde;quarta;laranja
+sudeste;SP;frio;chuva;primavera;tarde;sabado;frango
+nordeste;MA;normal;ceu claro;primavera;manha;quinta;laranja
+norte;AP;frio;chuva;inverno;tarde;sabado;queijo
+sul;SC;quente;ceu claro;verao;madrugada;sabado;panqueca
+sul;PR;quente;ceu claro;outono;noite;domingo;bolonhesa
+norte;RO;frio;ceu claro;outono;manha;quarta;queijo
+norte;AC;quente;ceu claro;outono;noite;quarta;suco
+sul;PR;normal;nuvens;verao;madrugada;sexta;suco
+sudeste;ES;normal;chuva;outono;manha;segunda;queijo
+nordeste;PI;frio;ceu claro;inverno;tarde;sexta;uva
+nordeste;CE;quente;ceu claro;inverno;madrugada;quarta;morango
+centro-oeste;MS;normal;nuvens;outono;tarde;sexta;frango
+nordeste;PE;normal;ceu claro;primavera;manha;sabado;frango
+nordeste;BA;frio;nuvens;outono;noite;quinta;frango
+sudeste;SP;frio;chuva;primavera;manha;terca;lasanha
+centro-oeste;DF;frio;ceu claro;primavera;noite;segunda;morango
+norte;RO;frio;chuva;primavera;madrugada;domingo;bolo
+centro-oeste;GO;quente;ceu claro;primavera;madrugada;domingo;queijo
+nordeste;SE;normal;chuva;verao;madrugada;domingo;panqueca
+centro-oeste;DF;frio;nuvens;outono;madrugada;domingo;molho
+nordeste;PB;frio;chuva;verao;manha;quarta;bolonhesa
+nordeste;PI;quente;nuvens;inverno;tarde;terca;uva
+centro-oeste;DF;frio;ceu claro;verao;tarde;quarta;queijo
+nordeste;AL;frio;chuva;primavera;madrugada;domingo;rocambole
+nordeste;AL;quente;nuvens;inverno;madrugada;quinta;frango
+nordeste;PE;quente;nuvens;verao;madrugada;domingo;suco
+centro-oeste;GO;normal;nuvens;verao;madrugada;quarta;panqueca
+centro-oeste;MS;normal;nuvens;outono;noite;terca;queijo
+nordeste;MA;normal;chuva;inverno;tarde;sexta;morango
+sudeste;RJ;normal;ceu claro;inverno;manha;terca;molho
+sudeste;ES;quente;nuvens;primavera;madrugada;quinta;lasanha
+centro-oeste;MT;normal;ceu claro;verao;tarde;quinta;panqueca
+norte;PA;quente;chuva;primavera;madrugada;domingo;bolonhesa
+norte;RO;normal;chuva;primavera;manha;quinta;rocambole
+nordeste;PE;frio;nuvens;verao;manha;segunda;suco
+nordeste;CE;normal;nuvens;primavera;manha;sabado;morango
+centro-oeste;MT;quente;nuvens;verao;tarde;terca;panqueca
+nordeste;PB;frio;ceu claro;primavera;noite;domingo;bolo
+nordeste;RN;quente;nuvens;outono;manha;quinta;sopa
+centro-oeste;GO;frio;nuvens;outono;tarde;quinta;lasanha
+sul;PR;quente;ceu claro;inverno;manha;sexta;queijo
+sudeste;SP;frio;ceu claro;outono;noite;terca;queijo
+nordeste;PB;quente;nuvens;outono;noite;quinta;frango
+centro-oeste;MT;frio;ceu claro;verao;madrugada;sexta;morango
+nordeste;AL;frio;ceu claro;inverno;noite;domingo;frango
+nordeste;PB;frio;chuva;primavera;tarde;sabado;sopa
+sudeste;ES;frio;chuva;primavera;noite;quinta;panqueca
+nordeste;AL;frio;nuvens;outono;manha;sabado;bolo
+nordeste;SE;quente;chuva;verao;madrugada;quarta;bolo
+centro-oeste;MS;quente;ceu claro;primavera;tarde;sexta;molho
+centro-oeste;MS;quente;ceu claro;inverno;noite;sexta;bolonhesa
+sul;PR;quente;ceu claro;verao;noite;sexta;uva
+nordeste;CE;frio;nuvens;verao;tarde;domingo;tapioca
+norte;RO;normal;ceu claro;primavera;manha;terca;suco
+nordeste;CE;frio;chuva;primavera;manha;sexta;bolo
+nordeste;BA;frio;nuvens;outono;tarde;sexta;bolonhesa
+centro-oeste;MT;frio;ceu claro;inverno;noite;quinta;molho
+centro-oeste;MT;frio;chuva;verao;noite;sabado;suco
+centro-oeste;MT;normal;nuvens;inverno;noite;sexta;panqueca
+sudeste;SP;frio;ceu claro;verao;manha;terca;morango
+nordeste;SE;normal;ceu claro;verao;manha;quinta;bolonhesa
+nordeste;BA;quente;ceu claro;verao;noite;terca;panqueca
+nordeste;PE;quente;nuvens;inverno;madrugada;sexta;rocambole
+nordeste;CE;quente;nuvens;inverno;manha;quarta;laranja
+norte;AP;frio;chuva;inverno;manha;quarta;panqueca
+centro-oeste;GO;normal;chuva;primavera;manha;quarta;suco
+centro-oeste;DF;quente;nuvens;primavera;noite;segunda;queijo
+centro-oeste;DF;quente;chuva;inverno;madrugada;sabado;panqueca
+sul;RS;normal;chuva;outono;noite;sabado;rocambole
+nordeste;PE;normal;ceu claro;verao;madrugada;sabado;frango
+nordeste;PI;quente;chuva;verao;tarde;domingo;suco
+nordeste;AL;quente;nuvens;verao;tarde;quinta;morango
+nordeste;PI;frio;chuva;verao;noite;domingo;queijo
+sudeste;SP;frio;nuvens;verao;manha;quinta;tapioca
+centro-oeste;MS;frio;ceu claro;primavera;tarde;quarta;sopa
+nordeste;AL;normal;nuvens;primavera;noite;quarta;bolo
+norte;RR;normal;nuvens;outono;tarde;sexta;panqueca
+norte;RR;normal;chuva;verao;tarde;sabado;queijo
+sul;PR;normal;nuvens;inverno;madrugada;segunda;uva
+norte;AP;quente;chuva;verao;manha;quinta;panqueca
+nordeste;RN;normal;ceu claro;inverno;manha;quarta;molho
+nordeste;RN;normal;ceu claro;outono;manha;quinta;morango
+nordeste;AL;normal;nuvens;inverno;manha;sabado;frango
+norte;AP;normal;chuva;inverno;madrugada;quinta;rocambole
+nordeste;PE;quente;chuva;verao;noite;sexta;queijo
+sudeste;MG;quente;nuvens;inverno;tarde;sexta;frango
+sul;SC;normal;chuva;inverno;tarde;sabado;laranja
+nordeste;MA;normal;chuva;outono;madrugada;sabado;frango
+nordeste;BA;quente;chuva;outono;noite;domingo;frango
+sudeste;MG;quente;nuvens;verao;tarde;sabado;lasanha
+nordeste;RN;frio;nuvens;inverno;noite;sexta;bolo
+sudeste;SP;frio;ceu claro;inverno;noite;terca;molho
+sudeste;RJ;quente;ceu claro;primavera;noite;terca;uva
+norte;PA;normal;ceu claro;outono;manha;quinta;bolonhesa
+norte;AP;frio;ceu claro;verao;tarde;sexta;suco
+nordeste;AL;normal;nuvens;outono;madrugada;segunda;tapioca
+nordeste;PI;quente;ceu claro;primavera;tarde;sabado;molho
+norte;AP;normal;nuvens;verao;manha;sabado;laranja
+sul;SC;frio;chuva;outono;madrugada;quarta;lasanha
+norte;PA;normal;ceu claro;outono;manha;quarta;sopa
+norte;AP;normal;ceu claro;outono;noite;segunda;laranja
+nordeste;PI;normal;nuvens;primavera;noite;quinta;lasanha
+norte;RO;quente;ceu claro;inverno;madrugada;segunda;bolo
+nordeste;PB;normal;nuvens;verao;madrugada;terca;panqueca
+nordeste;CE;normal;ceu claro;outono;tarde;quinta;uva
+nordeste;PI;quente;chuva;inverno;tarde;segunda;frango
+sul;SC;quente;ceu claro;inverno;madrugada;segunda;panqueca
+sudeste;MG;frio;chuva;primavera;noite;terca;uva
+sudeste;ES;normal;chuva;verao;manha;segunda;bolonhesa
+nordeste;AL;normal;ceu claro;outono;tarde;segunda;sopa
+sudeste;MG;frio;ceu claro;inverno;tarde;segunda;lasanha
+centro-oeste;MS;quente;ceu claro;verao;manha;sexta;rocambole
+nordeste;RN;quente;ceu claro;outono;manha;sabado;suco
+norte;AP;quente;chuva;inverno;manha;quinta;frango
+nordeste;PI;normal;ceu claro;verao;madrugada;sabado;bolonhesa
+centro-oeste;MS;frio;chuva;inverno;noite;segunda;bolo
+sudeste;MG;normal;ceu claro;primavera;madrugada;segunda;frango
+sul;RS;frio;ceu claro;verao;manha;segunda;morango
+norte;RO;quente;ceu claro;verao;noite;sexta;lasanha
+nordeste;PI;frio;ceu claro;verao;manha;domingo;rocambole
+centro-oeste;GO;quente;ceu claro;verao;madrugada;sexta;uva
+sul;PR;quente;ceu claro;inverno;tarde;terca;bolonhesa
+nordeste;CE;normal;nuvens;outono;manha;segunda;sopa
+nordeste;CE;frio;chuva;inverno;tarde;sabado;sopa
+centro-oeste;GO;frio;chuva;verao;manha;sabado;lasanha
+norte;TO;normal;ceu claro;outono;tarde;sexta;molho
+nordeste;PI;normal;nuvens;inverno;tarde;segunda;panqueca
+centro-oeste;GO;quente;ceu claro;verao;madrugada;terca;rocambole
+sudeste;MG;quente;chuva;primavera;tarde;terca;frango
+nordeste;RN;quente;ceu claro;outono;tarde;segunda;sopa
+nordeste;SE;normal;ceu claro;verao;madrugada;quarta;laranja
+centro-oeste;GO;frio;ceu claro;outono;madrugada;segunda;bolonhesa
+sudeste;MG;normal;ceu claro;primavera;noite;quinta;frango
+nordeste;PE;normal;nuvens;inverno;tarde;quarta;queijo
+sul;RS;normal;chuva;verao;manha;segunda;laranja
+nordeste;SE;frio;ceu claro;inverno;noite;domingo;frango
+centro-oeste;DF;frio;chuva;outono;tarde;segunda;suco
+norte;TO;quente;ceu claro;inverno;manha;sabado;morango
+norte;TO;frio;chuva;outono;manha;sexta;molho
+norte;PA;normal;nuvens;outono;madrugada;sexta;uva
+nordeste;SE;normal;ceu claro;outono;manha;domingo;queijo
+centro-oeste;GO;frio;nuvens;verao;noite;quarta;molho
+centro-oeste;MS;normal;ceu claro;primavera;madrugada;terca;tapioca
+centro-oeste;MT;normal;chuva;inverno;tarde;domingo;laranja
+nordeste;MA;quente;nuvens;primavera;madrugada;quarta;frango
+nordeste;SE;quente;ceu claro;primavera;manha;sexta;lasanha
+norte;RO;normal;ceu claro;outono;tarde;sabado;frango
+sudeste;SP;quente;nuvens;outono;manha;terca;morango
+nordeste;AL;normal;chuva;inverno;tarde;quarta;lasanha
+sudeste;RJ;frio;nuvens;inverno;madrugada;sabado;panqueca
+sul;PR;frio;ceu claro;verao;manha;terca;laranja
+sul;SC;quente;chuva;outono;noite;quarta;molho
+nordeste;SE;normal;chuva;verao;tarde;quarta;rocambole
+sudeste;MG;quente;chuva;inverno;noite;segunda;laranja
+norte;AM;quente;chuva;inverno;madrugada;quarta;laranja
+sul;PR;quente;nuvens;primavera;noite;sabado;panqueca
+sul;PR;normal;nuvens;verao;madrugada;terca;laranja
+norte;AM;quente;nuvens;outono;tarde;domingo;laranja
+nordeste;PE;frio;ceu claro;outono;manha;terca;sopa
+sul;PR;quente;chuva;verao;noite;terca;lasanha
+centro-oeste;GO;frio;chuva;primavera;noite;quarta;rocambole
+sudeste;ES;frio;ceu claro;inverno;madrugada;domingo;uva
+centro-oeste;GO;normal;ceu claro;primavera;noite;segunda;suco
+sul;SC;normal;nuvens;outono;madrugada;sexta;uva
+centro-oeste;MS;quente;ceu claro;verao;noite;sexta;sopa
+nordeste;BA;normal;ceu claro;primavera;noite;quinta;morango
+norte;AM;frio;chuva;primavera;noite;quarta;frango
+centro-oeste;DF;normal;ceu claro;outono;noite;quarta;tapioca
+nordeste;SE;normal;chuva;primavera;noite;sexta;tapioca
+nordeste;PI;frio;ceu claro;primavera;madrugada;quarta;uva
+norte;TO;quente;chuva;verao;madrugada;quarta;panqueca
+sudeste;MG;normal;nuvens;inverno;noite;sexta;molho
+norte;PA;frio;chuva;primavera;manha;sexta;rocambole
+sudeste;MG;normal;ceu claro;inverno;manha;sexta;suco
+sul;PR;normal;ceu claro;inverno;noite;domingo;suco
+centro-oeste;MT;quente;nuvens;verao;madrugada;domingo;uva
+centro-oeste;MS;frio;nuvens;primavera;madrugada;terca;queijo
+norte;RR;frio;ceu claro;inverno;madrugada;terca;sopa
+norte;AP;quente;ceu claro;primavera;tarde;segunda;uva
+sul;RS;frio;ceu claro;verao;tarde;quarta;queijo
+nordeste;BA;normal;chuva;primavera;noite;sabado;molho
+norte;AC;quente;chuva;primavera;tarde;domingo;frango
+nordeste;PI;normal;nuvens;primavera;noite;domingo;rocambole
+sudeste;MG;frio;ceu claro;primavera;manha;sabado;panqueca
+nordeste;PB;quente;ceu claro;primavera;madrugada;sabado;queijo
+centro-oeste;MS;normal;chuva;verao;manha;sexta;molho
+nordeste;MA;normal;nuvens;verao;manha;sexta;frango
+centro-oeste;MT;normal;ceu claro;primavera;madrugada;sexta;sopa
+nordeste;MA;quente;ceu claro;primavera;noite;sabado;lasanha
+norte;TO;frio;chuva;verao;madrugada;quinta;rocambole
+nordeste;RN;quente;nuvens;inverno;manha;sexta;sopa
+sul;PR;frio;nuvens;primavera;madrugada;sexta;tapioca
+norte;RR;quente;ceu claro;primavera;noite;sabado;laranja
+nordeste;AL;frio;nuvens;outono;madrugada;sabado;suco
+sul;RS;normal;nuvens;verao;manha;segunda;tapioca
+norte;PA;quente;chuva;inverno;manha;sabado;morango
+norte;AC;frio;nuvens;verao;madrugada;sexta;lasanha
+nordeste;MA;quente;nuvens;inverno;tarde;terca;frango
+nordeste;CE;frio;ceu claro;primavera;manha;sexta;bolo
+centro-oeste;DF;quente;nuvens;primavera;manha;domingo;morango
+norte;AM;quente;chuva;inverno;madrugada;sexta;bolonhesa
+sul;SC;frio;nuvens;outono;madrugada;sexta;morango
+norte;PA;quente;nuvens;verao;manha;sabado;sopa
+sudeste;RJ;quente;chuva;inverno;manha;terca;panqueca
+sudeste;RJ;frio;ceu claro;outono;madrugada;quarta;sopa
+nordeste;MA;normal;ceu claro;inverno;noite;sabado;queijo
+nordeste;PE;normal;nuvens;verao;manha;sabado;molho
+centro-oeste;MS;frio;chuva;verao;manha;quinta;molho
+nordeste;PE;normal;ceu claro;primavera;noite;segunda;rocambole
+nordeste;CE;normal;chuva;outono;tarde;terca;panqueca
+nordeste;PB;frio;ceu claro;outono;noite;sexta;queijo
+sul;PR;normal;nuvens;primavera;manha;quinta;bolo
+sudeste;MG;normal;chuva;inverno;tarde;terca;frango
+sudeste;RJ;frio;nuvens;primavera;noite;sabado;panqueca
+nordeste;SE;normal;nuvens;outono;noite;domingo;molho
+centro-oeste;DF;frio;nuvens;outono;noite;terca;bolonhesa
+sudeste;MG;normal;chuva;primavera;tarde;segunda;laranja
+centro-oeste;MS;normal;chuva;verao;manha;quinta;queijo
+sudeste;ES;frio;ceu claro;verao;manha;terca;queijo
+norte;AM;normal;nuvens;primavera;noite;quinta;tapioca
+centro-oeste;DF;normal;chuva;primavera;madrugada;segunda;frango
+sudeste;RJ;normal;chuva;outono;noite;quinta;bolonhesa
+nordeste;BA;normal;chuva;inverno;tarde;sexta;rocambole
+sul;RS;frio;nuvens;verao;tarde;terca;lasanha
+sudeste;MG;quente;nuvens;primavera;madrugada;segunda;uva
+norte;PA;normal;ceu claro;inverno;manha;sabado;rocambole
+sudeste;SP;frio;nuvens;outono;manha;quinta;lasanha
+nordeste;BA;normal;ceu claro;verao;noite;quarta;panqueca
+sudeste;MG;normal;nuvens;outono;tarde;quinta;queijo
+centro-oeste;DF;quente;nuvens;outono;tarde;quinta;bolonhesa
+norte;RR;normal;nuvens;primavera;noite;domingo;molho
+nordeste;MA;frio;nuvens;primavera;madrugada;quarta;morango
+nordeste;RN;quente;ceu claro;verao;noite;segunda;rocambole
+nordeste;BA;normal;chuva;primavera;madrugada;segunda;sopa
+centro-oeste;GO;quente;nuvens;outono;tarde;sabado;uva
+nordeste;BA;frio;ceu claro;primavera;madrugada;quinta;frango
+norte;AP;quente;nuvens;outono;madrugada;quarta;laranja
+nordeste;RN;frio;nuvens;outono;noite;quinta;bolo
+nordeste;BA;normal;ceu claro;primavera;madrugada;quinta;sopa
+norte;RR;quente;ceu claro;outono;manha;quarta;bolonhesa
+sul;PR;frio;ceu claro;outono;manha;domingo;queijo
+sudeste;ES;normal;ceu claro;inverno;manha;quarta;bolonhesa
+sudeste;MG;frio;chuva;inverno;manha;quarta;queijo
+sudeste;MG;quente;nuvens;primavera;noite;quinta;queijo
+centro-oeste;MS;frio;ceu claro;verao;tarde;sabado;sopa
+centro-oeste;MS;normal;nuvens;outono;manha;segunda;laranja
+norte;PA;quente;chuva;outono;tarde;quarta;laranja
+nordeste;RN;quente;nuvens;inverno;noite;terca;sopa
+nordeste;RN;quente;nuvens;primavera;tarde;domingo;tapioca
+norte;RR;normal;ceu claro;verao;noite;segunda;queijo
+nordeste;BA;normal;nuvens;inverno;noite;sabado;bolonhesa
+nordeste;CE;normal;chuva;verao;manha;sabado;frango
