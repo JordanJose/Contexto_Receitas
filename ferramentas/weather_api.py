@@ -4,26 +4,18 @@ api_key = "8f07ff954fb086ad185e46b3104fbaaa"
 base_url = "https://api.openweathermap.org/data/2.5/weather?"
 
 def format_weather(weather):
-    if weather in ["Drizzle", "Thunderstorm", "Rain"]:
-            return "chuva"
-    elif weather == "Snow":
-        return "neve"
-
-    elif weather == "Clear":
-        return "ceu claro"
-
-    elif weather == "Clouds":
-        return "nuvens"
+    if weather not in ["Drizzle", "Thunderstorm", "Rain", "Snow", "Clear", "Clouds"]:
+        return "Others"
     else:
-        return "outros"
+        return weather
 
 def format_temp(temp):
     if temp < 20:
-        return "frio"
+        return "cold"
     if temp >= 20 and temp < 30:
-        return "normal"
+        return "room"
     if temp >= 30:
-        return "quente"
+        return "warm"
 
 def get_weather(lat, lon):
 

@@ -1,13 +1,13 @@
 import streamlit as st
-import pandas as pd
-import numpy as np
-from streamlit_card import card
 from ferramentas import get_ip, get_region, weather_api, get_partDay
 from datetime import date, datetime
+from modelo.arvore_decisao import predicao
+from ferramentas.receitas_api import get_recipe
+from ferramentas.render_cards import render_card
 
 # informações de contexto
 
-weekday_list = ['segunda', 'terca', 'quarta', 'quinta', 'sexta', 'sabado', 'domingo']
+weekday_list = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
 
 state, lat, lon = get_ip.get_ip()
 
@@ -29,29 +29,30 @@ station = get_partDay.get_station(current_time)
 
 # Página
 
-st.title('Receitas Já!')
+st.title('Recipe Now')
 
 parametros = {"Região": region, "Estado": state, 
             "Temperatura": temp, "Tempo": weather, 
             "Estação": station, "Período do dia": partOfDay, 
             "Dia da Semana": weekday}
 
-st.caption("Informações de contexto:  " + str(parametros))
+st.caption("Context Info:  " + str(parametros))
 
-title = st.text_input('Pesquise uma receita', placeholder="Insira aqui uma palavra-chave")
+user_search = st.text_input('Search for a recipe', placeholder="Insert keyword")
 
-st.subheader("Recomendados para você com base nas suas informações")
+user_predict = predicao([region, state, temp, weather, station, partOfDay, weekday])
 
-col = st.columns(3)
+recipes = get_recipe(user_predict)
 
-for i in range(3): 
-    with col[i]:
-        card(
-            title=str(i),
-            text="This is a test card",
-            image="https://placekitten.com/500/500",
-            url="https://github.com/gamcoh/st-card",
-        )
-
-# st.write(res)   
-# st.write(res) 
+if user_search:
+    user_recipes = get_recipe(user_search)
+    if user_recipes:
+        st.subheader("Your Results")
+        render_card(user_recipes)
+    else:
+        st.caption('No Results')
+        st.subheader("Recomendation for you")
+        render_card(recipes)
+else:
+    st.subheader("Recomendation for you")
+    render_card(recipes)

@@ -8,7 +8,7 @@ from sklearn.metrics import accuracy_score
 
 seed = 10
 
-df_registros = pd.read_csv('../bases/registros_usuarios.csv', sep=';')
+df_registros = pd.read_csv('/mnt/c/Users/jorda/Documents/fabio_ultimo_periodo/pyweb_codigo/bases/registros_usuarios.csv', sep=';')
 
 dic_geral = {}
 for coluna in df_registros.columns:
@@ -18,6 +18,8 @@ dic_pesquisa = {i: texto for i, texto in enumerate(pd.unique(df_registros['pesqu
 
 for coluna in df_registros.columns:
     df_registros[coluna] = df_registros[coluna].replace(dic_geral[coluna])
+
+print(dic_geral)
 
 y = df_registros['pesquisa'].values
 

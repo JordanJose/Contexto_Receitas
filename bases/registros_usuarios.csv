@@ -1,401 +1,401 @@
 regiao;estado;temperatura;tempo;estacao;periodo_dia;dia_semana;pesquisa
-norte;RO;normal;nuvens;outono;noite;quinta;queijo
-norte;AM;quente;ceu claro;inverno;madrugada;quinta;lasanha
-nordeste;RN;quente;nuvens;primavera;manha;terca;queijo
-nordeste;BA;frio;ceu claro;inverno;madrugada;terca;morango
-centro-oeste;MT;quente;ceu claro;primavera;noite;domingo;laranja
-sul;RS;normal;ceu claro;outono;madrugada;domingo;morango
-norte;AP;frio;ceu claro;primavera;tarde;terca;bolonhesa
-nordeste;PI;quente;chuva;outono;manha;terca;bolo
-norte;PA;frio;chuva;inverno;madrugada;terca;uva
-nordeste;PI;normal;ceu claro;inverno;manha;domingo;bolonhesa
-nordeste;RN;frio;ceu claro;outono;madrugada;sabado;tapioca
-nordeste;PE;frio;ceu claro;verao;tarde;terca;bolo
-norte;AM;quente;ceu claro;primavera;tarde;segunda;panqueca
-nordeste;RN;quente;ceu claro;verao;madrugada;quinta;frango
-sul;PR;normal;nuvens;outono;manha;sexta;frango
-nordeste;SE;normal;chuva;inverno;manha;terca;bolo
-sudeste;RJ;frio;ceu claro;verao;noite;quarta;suco
-nordeste;AL;frio;ceu claro;primavera;madrugada;domingo;suco
-norte;RR;quente;nuvens;inverno;madrugada;segunda;suco
-sul;PR;frio;ceu claro;verao;madrugada;quarta;morango
-nordeste;MA;normal;ceu claro;inverno;noite;domingo;molho
-sul;RS;frio;nuvens;primavera;manha;terca;panqueca
-sul;SC;quente;chuva;outono;noite;segunda;suco
-sudeste;SP;quente;nuvens;primavera;noite;quinta;sopa
-norte;RO;normal;nuvens;outono;tarde;segunda;molho
-norte;PA;quente;ceu claro;outono;madrugada;terca;uva
-centro-oeste;MT;frio;nuvens;inverno;manha;segunda;queijo
-nordeste;PB;quente;ceu claro;primavera;noite;domingo;suco
-centro-oeste;GO;quente;nuvens;outono;noite;terca;queijo
-sul;SC;quente;ceu claro;verao;manha;terca;rocambole
-nordeste;PI;quente;ceu claro;inverno;manha;quarta;uva
-sudeste;ES;quente;ceu claro;inverno;madrugada;sexta;panqueca
-norte;AP;normal;nuvens;outono;noite;sexta;bolo
-norte;AP;normal;chuva;outono;tarde;quinta;lasanha
-centro-oeste;GO;quente;nuvens;outono;tarde;quarta;morango
-norte;PA;quente;chuva;verao;noite;domingo;lasanha
-norte;RR;normal;chuva;inverno;noite;terca;frango
-sul;PR;quente;ceu claro;inverno;noite;quarta;molho
-sudeste;ES;quente;ceu claro;verao;manha;sabado;queijo
-centro-oeste;MS;quente;ceu claro;outono;manha;sexta;bolo
-norte;TO;frio;ceu claro;primavera;madrugada;segunda;panqueca
-norte;RO;normal;ceu claro;primavera;manha;quinta;tapioca
-norte;AC;normal;ceu claro;verao;noite;quarta;uva
-sudeste;ES;frio;chuva;inverno;noite;sexta;panqueca
-norte;PA;quente;nuvens;verao;tarde;segunda;sopa
-sudeste;MG;normal;chuva;verao;tarde;quarta;molho
-sul;PR;normal;ceu claro;primavera;tarde;sabado;sopa
-norte;PA;quente;chuva;outono;manha;domingo;uva
-norte;AC;frio;nuvens;verao;noite;segunda;lasanha
-nordeste;AL;frio;nuvens;primavera;manha;quarta;bolo
-norte;RR;quente;ceu claro;inverno;noite;domingo;rocambole
-nordeste;PE;quente;chuva;primavera;tarde;quarta;tapioca
-norte;AC;normal;nuvens;verao;tarde;sabado;morango
-centro-oeste;DF;frio;ceu claro;primavera;manha;sabado;tapioca
-norte;RR;quente;nuvens;outono;noite;sabado;suco
-nordeste;PB;quente;nuvens;inverno;madrugada;sexta;panqueca
-nordeste;CE;normal;ceu claro;outono;noite;domingo;uva
-norte;AC;normal;chuva;primavera;manha;segunda;panqueca
-nordeste;PB;normal;chuva;primavera;noite;sexta;uva
-sudeste;SP;normal;ceu claro;verao;tarde;segunda;suco
-sul;RS;frio;nuvens;verao;tarde;domingo;panqueca
-sul;SC;quente;ceu claro;inverno;manha;quinta;frango
-norte;RO;normal;chuva;verao;tarde;terca;molho
-centro-oeste;MS;quente;nuvens;inverno;tarde;sabado;panqueca
-sul;RS;frio;nuvens;inverno;manha;quinta;panqueca
-norte;AC;frio;nuvens;outono;madrugada;sabado;morango
-norte;RR;normal;nuvens;inverno;tarde;quarta;molho
-sudeste;MG;normal;ceu claro;inverno;manha;sexta;morango
-centro-oeste;MS;frio;ceu claro;primavera;madrugada;sexta;laranja
-norte;AM;normal;chuva;inverno;noite;sabado;rocambole
-nordeste;PI;frio;nuvens;verao;noite;sabado;lasanha
-nordeste;PI;frio;chuva;primavera;tarde;sexta;sopa
-norte;AC;quente;nuvens;inverno;madrugada;segunda;sopa
-sul;SC;quente;chuva;inverno;noite;sexta;queijo
-nordeste;CE;normal;nuvens;verao;tarde;sabado;frango
-nordeste;BA;normal;nuvens;verao;manha;quarta;tapioca
-sudeste;RJ;normal;ceu claro;primavera;manha;segunda;suco
-nordeste;MA;frio;ceu claro;verao;madrugada;domingo;suco
-sul;PR;normal;nuvens;primavera;manha;sabado;frango
-nordeste;CE;quente;nuvens;outono;madrugada;sabado;panqueca
-nordeste;PE;normal;ceu claro;inverno;tarde;terca;rocambole
-centro-oeste;MT;frio;ceu claro;verao;noite;sabado;uva
-norte;AP;quente;ceu claro;verao;noite;terca;laranja
-nordeste;PI;normal;nuvens;outono;noite;domingo;bolonhesa
-nordeste;RN;frio;ceu claro;primavera;manha;sabado;frango
-sudeste;RJ;quente;nuvens;primavera;tarde;quarta;bolo
-centro-oeste;DF;normal;ceu claro;outono;madrugada;quarta;frango
-nordeste;AL;frio;chuva;inverno;manha;segunda;molho
-norte;TO;frio;chuva;outono;noite;quinta;sopa
-sudeste;MG;frio;chuva;primavera;noite;terca;frango
-nordeste;MA;normal;nuvens;inverno;madrugada;sabado;uva
-sudeste;RJ;frio;ceu claro;primavera;manha;segunda;uva
-norte;PA;frio;chuva;outono;tarde;segunda;panqueca
-norte;RO;frio;nuvens;primavera;tarde;domingo;morango
-sudeste;MG;normal;chuva;outono;manha;quarta;molho
-norte;AC;normal;ceu claro;outono;tarde;quarta;morango
-nordeste;MA;quente;nuvens;verao;madrugada;sabado;bolonhesa
-nordeste;AL;normal;chuva;inverno;madrugada;sexta;panqueca
-nordeste;PE;quente;chuva;outono;noite;sabado;morango
-centro-oeste;DF;frio;nuvens;outono;madrugada;domingo;rocambole
-centro-oeste;DF;quente;nuvens;inverno;madrugada;segunda;tapioca
-nordeste;AL;frio;chuva;verao;tarde;terca;suco
-centro-oeste;GO;quente;chuva;outono;noite;quarta;bolonhesa
-nordeste;PI;normal;ceu claro;verao;tarde;sabado;frango
-sudeste;SP;quente;nuvens;outono;noite;quinta;morango
-norte;AP;normal;chuva;verao;manha;terca;bolo
-sudeste;MG;normal;nuvens;outono;madrugada;quinta;molho
-sul;PR;normal;ceu claro;inverno;tarde;sabado;laranja
-norte;RO;frio;nuvens;verao;noite;terca;suco
-nordeste;BA;normal;nuvens;outono;tarde;domingo;frango
-nordeste;PB;quente;ceu claro;outono;madrugada;terca;tapioca
-centro-oeste;MT;normal;nuvens;verao;madrugada;segunda;lasanha
-norte;AM;quente;nuvens;primavera;noite;quarta;sopa
-norte;PA;frio;nuvens;outono;noite;domingo;tapioca
-norte;RO;quente;chuva;verao;noite;sabado;laranja
-centro-oeste;DF;normal;chuva;verao;noite;terca;morango
-sudeste;ES;quente;ceu claro;inverno;noite;terca;laranja
-nordeste;AL;frio;nuvens;inverno;tarde;terca;rocambole
-sudeste;SP;normal;nuvens;outono;madrugada;sexta;tapioca
-norte;PA;frio;ceu claro;primavera;manha;terca;queijo
-nordeste;RN;frio;chuva;primavera;noite;domingo;molho
-norte;AP;normal;nuvens;inverno;noite;terca;rocambole
-sudeste;SP;normal;chuva;primavera;manha;terca;frango
-centro-oeste;MS;quente;nuvens;verao;manha;sexta;rocambole
-sul;RS;quente;ceu claro;primavera;noite;domingo;frango
-norte;AC;frio;ceu claro;outono;madrugada;quarta;bolo
-nordeste;SE;frio;nuvens;inverno;tarde;quinta;laranja
-sudeste;SP;normal;chuva;inverno;tarde;terca;bolo
-norte;AP;normal;ceu claro;primavera;tarde;segunda;bolo
-centro-oeste;MS;normal;ceu claro;verao;noite;sexta;rocambole
-nordeste;PI;quente;ceu claro;verao;noite;segunda;frango
-sudeste;SP;quente;nuvens;primavera;noite;quinta;lasanha
-nordeste;AL;quente;ceu claro;outono;noite;domingo;frango
-centro-oeste;MS;frio;ceu claro;verao;madrugada;segunda;suco
-norte;RR;quente;chuva;verao;noite;sabado;bolonhesa
-nordeste;MA;quente;ceu claro;inverno;manha;domingo;molho
-nordeste;BA;normal;chuva;primavera;tarde;terca;molho
-nordeste;CE;frio;chuva;inverno;tarde;segunda;queijo
-sudeste;RJ;quente;chuva;primavera;noite;sabado;frango
-sudeste;ES;frio;nuvens;outono;madrugada;sabado;bolonhesa
-nordeste;MA;normal;nuvens;outono;noite;terca;lasanha
-sul;SC;quente;chuva;primavera;tarde;terca;queijo
-nordeste;BA;quente;chuva;outono;madrugada;quarta;panqueca
-nordeste;RN;normal;chuva;verao;tarde;domingo;sopa
-nordeste;CE;frio;chuva;inverno;manha;sexta;suco
-sudeste;ES;frio;ceu claro;inverno;tarde;quarta;tapioca
-nordeste;PI;frio;ceu claro;outono;tarde;quarta;sopa
-sudeste;ES;normal;nuvens;verao;tarde;quarta;laranja
-sudeste;SP;frio;chuva;primavera;tarde;sabado;frango
-nordeste;MA;normal;ceu claro;primavera;manha;quinta;laranja
-norte;AP;frio;chuva;inverno;tarde;sabado;queijo
-sul;SC;quente;ceu claro;verao;madrugada;sabado;panqueca
-sul;PR;quente;ceu claro;outono;noite;domingo;bolonhesa
-norte;RO;frio;ceu claro;outono;manha;quarta;queijo
-norte;AC;quente;ceu claro;outono;noite;quarta;suco
-sul;PR;normal;nuvens;verao;madrugada;sexta;suco
-sudeste;ES;normal;chuva;outono;manha;segunda;queijo
-nordeste;PI;frio;ceu claro;inverno;tarde;sexta;uva
-nordeste;CE;quente;ceu claro;inverno;madrugada;quarta;morango
-centro-oeste;MS;normal;nuvens;outono;tarde;sexta;frango
-nordeste;PE;normal;ceu claro;primavera;manha;sabado;frango
-nordeste;BA;frio;nuvens;outono;noite;quinta;frango
-sudeste;SP;frio;chuva;primavera;manha;terca;lasanha
-centro-oeste;DF;frio;ceu claro;primavera;noite;segunda;morango
-norte;RO;frio;chuva;primavera;madrugada;domingo;bolo
-centro-oeste;GO;quente;ceu claro;primavera;madrugada;domingo;queijo
-nordeste;SE;normal;chuva;verao;madrugada;domingo;panqueca
-centro-oeste;DF;frio;nuvens;outono;madrugada;domingo;molho
-nordeste;PB;frio;chuva;verao;manha;quarta;bolonhesa
-nordeste;PI;quente;nuvens;inverno;tarde;terca;uva
-centro-oeste;DF;frio;ceu claro;verao;tarde;quarta;queijo
-nordeste;AL;frio;chuva;primavera;madrugada;domingo;rocambole
-nordeste;AL;quente;nuvens;inverno;madrugada;quinta;frango
-nordeste;PE;quente;nuvens;verao;madrugada;domingo;suco
-centro-oeste;GO;normal;nuvens;verao;madrugada;quarta;panqueca
-centro-oeste;MS;normal;nuvens;outono;noite;terca;queijo
-nordeste;MA;normal;chuva;inverno;tarde;sexta;morango
-sudeste;RJ;normal;ceu claro;inverno;manha;terca;molho
-sudeste;ES;quente;nuvens;primavera;madrugada;quinta;lasanha
-centro-oeste;MT;normal;ceu claro;verao;tarde;quinta;panqueca
-norte;PA;quente;chuva;primavera;madrugada;domingo;bolonhesa
-norte;RO;normal;chuva;primavera;manha;quinta;rocambole
-nordeste;PE;frio;nuvens;verao;manha;segunda;suco
-nordeste;CE;normal;nuvens;primavera;manha;sabado;morango
-centro-oeste;MT;quente;nuvens;verao;tarde;terca;panqueca
-nordeste;PB;frio;ceu claro;primavera;noite;domingo;bolo
-nordeste;RN;quente;nuvens;outono;manha;quinta;sopa
-centro-oeste;GO;frio;nuvens;outono;tarde;quinta;lasanha
-sul;PR;quente;ceu claro;inverno;manha;sexta;queijo
-sudeste;SP;frio;ceu claro;outono;noite;terca;queijo
-nordeste;PB;quente;nuvens;outono;noite;quinta;frango
-centro-oeste;MT;frio;ceu claro;verao;madrugada;sexta;morango
-nordeste;AL;frio;ceu claro;inverno;noite;domingo;frango
-nordeste;PB;frio;chuva;primavera;tarde;sabado;sopa
-sudeste;ES;frio;chuva;primavera;noite;quinta;panqueca
-nordeste;AL;frio;nuvens;outono;manha;sabado;bolo
-nordeste;SE;quente;chuva;verao;madrugada;quarta;bolo
-centro-oeste;MS;quente;ceu claro;primavera;tarde;sexta;molho
-centro-oeste;MS;quente;ceu claro;inverno;noite;sexta;bolonhesa
-sul;PR;quente;ceu claro;verao;noite;sexta;uva
-nordeste;CE;frio;nuvens;verao;tarde;domingo;tapioca
-norte;RO;normal;ceu claro;primavera;manha;terca;suco
-nordeste;CE;frio;chuva;primavera;manha;sexta;bolo
-nordeste;BA;frio;nuvens;outono;tarde;sexta;bolonhesa
-centro-oeste;MT;frio;ceu claro;inverno;noite;quinta;molho
-centro-oeste;MT;frio;chuva;verao;noite;sabado;suco
-centro-oeste;MT;normal;nuvens;inverno;noite;sexta;panqueca
-sudeste;SP;frio;ceu claro;verao;manha;terca;morango
-nordeste;SE;normal;ceu claro;verao;manha;quinta;bolonhesa
-nordeste;BA;quente;ceu claro;verao;noite;terca;panqueca
-nordeste;PE;quente;nuvens;inverno;madrugada;sexta;rocambole
-nordeste;CE;quente;nuvens;inverno;manha;quarta;laranja
-norte;AP;frio;chuva;inverno;manha;quarta;panqueca
-centro-oeste;GO;normal;chuva;primavera;manha;quarta;suco
-centro-oeste;DF;quente;nuvens;primavera;noite;segunda;queijo
-centro-oeste;DF;quente;chuva;inverno;madrugada;sabado;panqueca
-sul;RS;normal;chuva;outono;noite;sabado;rocambole
-nordeste;PE;normal;ceu claro;verao;madrugada;sabado;frango
-nordeste;PI;quente;chuva;verao;tarde;domingo;suco
-nordeste;AL;quente;nuvens;verao;tarde;quinta;morango
-nordeste;PI;frio;chuva;verao;noite;domingo;queijo
-sudeste;SP;frio;nuvens;verao;manha;quinta;tapioca
-centro-oeste;MS;frio;ceu claro;primavera;tarde;quarta;sopa
-nordeste;AL;normal;nuvens;primavera;noite;quarta;bolo
-norte;RR;normal;nuvens;outono;tarde;sexta;panqueca
-norte;RR;normal;chuva;verao;tarde;sabado;queijo
-sul;PR;normal;nuvens;inverno;madrugada;segunda;uva
-norte;AP;quente;chuva;verao;manha;quinta;panqueca
-nordeste;RN;normal;ceu claro;inverno;manha;quarta;molho
-nordeste;RN;normal;ceu claro;outono;manha;quinta;morango
-nordeste;AL;normal;nuvens;inverno;manha;sabado;frango
-norte;AP;normal;chuva;inverno;madrugada;quinta;rocambole
-nordeste;PE;quente;chuva;verao;noite;sexta;queijo
-sudeste;MG;quente;nuvens;inverno;tarde;sexta;frango
-sul;SC;normal;chuva;inverno;tarde;sabado;laranja
-nordeste;MA;normal;chuva;outono;madrugada;sabado;frango
-nordeste;BA;quente;chuva;outono;noite;domingo;frango
-sudeste;MG;quente;nuvens;verao;tarde;sabado;lasanha
-nordeste;RN;frio;nuvens;inverno;noite;sexta;bolo
-sudeste;SP;frio;ceu claro;inverno;noite;terca;molho
-sudeste;RJ;quente;ceu claro;primavera;noite;terca;uva
-norte;PA;normal;ceu claro;outono;manha;quinta;bolonhesa
-norte;AP;frio;ceu claro;verao;tarde;sexta;suco
-nordeste;AL;normal;nuvens;outono;madrugada;segunda;tapioca
-nordeste;PI;quente;ceu claro;primavera;tarde;sabado;molho
-norte;AP;normal;nuvens;verao;manha;sabado;laranja
-sul;SC;frio;chuva;outono;madrugada;quarta;lasanha
-norte;PA;normal;ceu claro;outono;manha;quarta;sopa
-norte;AP;normal;ceu claro;outono;noite;segunda;laranja
-nordeste;PI;normal;nuvens;primavera;noite;quinta;lasanha
-norte;RO;quente;ceu claro;inverno;madrugada;segunda;bolo
-nordeste;PB;normal;nuvens;verao;madrugada;terca;panqueca
-nordeste;CE;normal;ceu claro;outono;tarde;quinta;uva
-nordeste;PI;quente;chuva;inverno;tarde;segunda;frango
-sul;SC;quente;ceu claro;inverno;madrugada;segunda;panqueca
-sudeste;MG;frio;chuva;primavera;noite;terca;uva
-sudeste;ES;normal;chuva;verao;manha;segunda;bolonhesa
-nordeste;AL;normal;ceu claro;outono;tarde;segunda;sopa
-sudeste;MG;frio;ceu claro;inverno;tarde;segunda;lasanha
-centro-oeste;MS;quente;ceu claro;verao;manha;sexta;rocambole
-nordeste;RN;quente;ceu claro;outono;manha;sabado;suco
-norte;AP;quente;chuva;inverno;manha;quinta;frango
-nordeste;PI;normal;ceu claro;verao;madrugada;sabado;bolonhesa
-centro-oeste;MS;frio;chuva;inverno;noite;segunda;bolo
-sudeste;MG;normal;ceu claro;primavera;madrugada;segunda;frango
-sul;RS;frio;ceu claro;verao;manha;segunda;morango
-norte;RO;quente;ceu claro;verao;noite;sexta;lasanha
-nordeste;PI;frio;ceu claro;verao;manha;domingo;rocambole
-centro-oeste;GO;quente;ceu claro;verao;madrugada;sexta;uva
-sul;PR;quente;ceu claro;inverno;tarde;terca;bolonhesa
-nordeste;CE;normal;nuvens;outono;manha;segunda;sopa
-nordeste;CE;frio;chuva;inverno;tarde;sabado;sopa
-centro-oeste;GO;frio;chuva;verao;manha;sabado;lasanha
-norte;TO;normal;ceu claro;outono;tarde;sexta;molho
-nordeste;PI;normal;nuvens;inverno;tarde;segunda;panqueca
-centro-oeste;GO;quente;ceu claro;verao;madrugada;terca;rocambole
-sudeste;MG;quente;chuva;primavera;tarde;terca;frango
-nordeste;RN;quente;ceu claro;outono;tarde;segunda;sopa
-nordeste;SE;normal;ceu claro;verao;madrugada;quarta;laranja
-centro-oeste;GO;frio;ceu claro;outono;madrugada;segunda;bolonhesa
-sudeste;MG;normal;ceu claro;primavera;noite;quinta;frango
-nordeste;PE;normal;nuvens;inverno;tarde;quarta;queijo
-sul;RS;normal;chuva;verao;manha;segunda;laranja
-nordeste;SE;frio;ceu claro;inverno;noite;domingo;frango
-centro-oeste;DF;frio;chuva;outono;tarde;segunda;suco
-norte;TO;quente;ceu claro;inverno;manha;sabado;morango
-norte;TO;frio;chuva;outono;manha;sexta;molho
-norte;PA;normal;nuvens;outono;madrugada;sexta;uva
-nordeste;SE;normal;ceu claro;outono;manha;domingo;queijo
-centro-oeste;GO;frio;nuvens;verao;noite;quarta;molho
-centro-oeste;MS;normal;ceu claro;primavera;madrugada;terca;tapioca
-centro-oeste;MT;normal;chuva;inverno;tarde;domingo;laranja
-nordeste;MA;quente;nuvens;primavera;madrugada;quarta;frango
-nordeste;SE;quente;ceu claro;primavera;manha;sexta;lasanha
-norte;RO;normal;ceu claro;outono;tarde;sabado;frango
-sudeste;SP;quente;nuvens;outono;manha;terca;morango
-nordeste;AL;normal;chuva;inverno;tarde;quarta;lasanha
-sudeste;RJ;frio;nuvens;inverno;madrugada;sabado;panqueca
-sul;PR;frio;ceu claro;verao;manha;terca;laranja
-sul;SC;quente;chuva;outono;noite;quarta;molho
-nordeste;SE;normal;chuva;verao;tarde;quarta;rocambole
-sudeste;MG;quente;chuva;inverno;noite;segunda;laranja
-norte;AM;quente;chuva;inverno;madrugada;quarta;laranja
-sul;PR;quente;nuvens;primavera;noite;sabado;panqueca
-sul;PR;normal;nuvens;verao;madrugada;terca;laranja
-norte;AM;quente;nuvens;outono;tarde;domingo;laranja
-nordeste;PE;frio;ceu claro;outono;manha;terca;sopa
-sul;PR;quente;chuva;verao;noite;terca;lasanha
-centro-oeste;GO;frio;chuva;primavera;noite;quarta;rocambole
-sudeste;ES;frio;ceu claro;inverno;madrugada;domingo;uva
-centro-oeste;GO;normal;ceu claro;primavera;noite;segunda;suco
-sul;SC;normal;nuvens;outono;madrugada;sexta;uva
-centro-oeste;MS;quente;ceu claro;verao;noite;sexta;sopa
-nordeste;BA;normal;ceu claro;primavera;noite;quinta;morango
-norte;AM;frio;chuva;primavera;noite;quarta;frango
-centro-oeste;DF;normal;ceu claro;outono;noite;quarta;tapioca
-nordeste;SE;normal;chuva;primavera;noite;sexta;tapioca
-nordeste;PI;frio;ceu claro;primavera;madrugada;quarta;uva
-norte;TO;quente;chuva;verao;madrugada;quarta;panqueca
-sudeste;MG;normal;nuvens;inverno;noite;sexta;molho
-norte;PA;frio;chuva;primavera;manha;sexta;rocambole
-sudeste;MG;normal;ceu claro;inverno;manha;sexta;suco
-sul;PR;normal;ceu claro;inverno;noite;domingo;suco
-centro-oeste;MT;quente;nuvens;verao;madrugada;domingo;uva
-centro-oeste;MS;frio;nuvens;primavera;madrugada;terca;queijo
-norte;RR;frio;ceu claro;inverno;madrugada;terca;sopa
-norte;AP;quente;ceu claro;primavera;tarde;segunda;uva
-sul;RS;frio;ceu claro;verao;tarde;quarta;queijo
-nordeste;BA;normal;chuva;primavera;noite;sabado;molho
-norte;AC;quente;chuva;primavera;tarde;domingo;frango
-nordeste;PI;normal;nuvens;primavera;noite;domingo;rocambole
-sudeste;MG;frio;ceu claro;primavera;manha;sabado;panqueca
-nordeste;PB;quente;ceu claro;primavera;madrugada;sabado;queijo
-centro-oeste;MS;normal;chuva;verao;manha;sexta;molho
-nordeste;MA;normal;nuvens;verao;manha;sexta;frango
-centro-oeste;MT;normal;ceu claro;primavera;madrugada;sexta;sopa
-nordeste;MA;quente;ceu claro;primavera;noite;sabado;lasanha
-norte;TO;frio;chuva;verao;madrugada;quinta;rocambole
-nordeste;RN;quente;nuvens;inverno;manha;sexta;sopa
-sul;PR;frio;nuvens;primavera;madrugada;sexta;tapioca
-norte;RR;quente;ceu claro;primavera;noite;sabado;laranja
-nordeste;AL;frio;nuvens;outono;madrugada;sabado;suco
-sul;RS;normal;nuvens;verao;manha;segunda;tapioca
-norte;PA;quente;chuva;inverno;manha;sabado;morango
-norte;AC;frio;nuvens;verao;madrugada;sexta;lasanha
-nordeste;MA;quente;nuvens;inverno;tarde;terca;frango
-nordeste;CE;frio;ceu claro;primavera;manha;sexta;bolo
-centro-oeste;DF;quente;nuvens;primavera;manha;domingo;morango
-norte;AM;quente;chuva;inverno;madrugada;sexta;bolonhesa
-sul;SC;frio;nuvens;outono;madrugada;sexta;morango
-norte;PA;quente;nuvens;verao;manha;sabado;sopa
-sudeste;RJ;quente;chuva;inverno;manha;terca;panqueca
-sudeste;RJ;frio;ceu claro;outono;madrugada;quarta;sopa
-nordeste;MA;normal;ceu claro;inverno;noite;sabado;queijo
-nordeste;PE;normal;nuvens;verao;manha;sabado;molho
-centro-oeste;MS;frio;chuva;verao;manha;quinta;molho
-nordeste;PE;normal;ceu claro;primavera;noite;segunda;rocambole
-nordeste;CE;normal;chuva;outono;tarde;terca;panqueca
-nordeste;PB;frio;ceu claro;outono;noite;sexta;queijo
-sul;PR;normal;nuvens;primavera;manha;quinta;bolo
-sudeste;MG;normal;chuva;inverno;tarde;terca;frango
-sudeste;RJ;frio;nuvens;primavera;noite;sabado;panqueca
-nordeste;SE;normal;nuvens;outono;noite;domingo;molho
-centro-oeste;DF;frio;nuvens;outono;noite;terca;bolonhesa
-sudeste;MG;normal;chuva;primavera;tarde;segunda;laranja
-centro-oeste;MS;normal;chuva;verao;manha;quinta;queijo
-sudeste;ES;frio;ceu claro;verao;manha;terca;queijo
-norte;AM;normal;nuvens;primavera;noite;quinta;tapioca
-centro-oeste;DF;normal;chuva;primavera;madrugada;segunda;frango
-sudeste;RJ;normal;chuva;outono;noite;quinta;bolonhesa
-nordeste;BA;normal;chuva;inverno;tarde;sexta;rocambole
-sul;RS;frio;nuvens;verao;tarde;terca;lasanha
-sudeste;MG;quente;nuvens;primavera;madrugada;segunda;uva
-norte;PA;normal;ceu claro;inverno;manha;sabado;rocambole
-sudeste;SP;frio;nuvens;outono;manha;quinta;lasanha
-nordeste;BA;normal;ceu claro;verao;noite;quarta;panqueca
-sudeste;MG;normal;nuvens;outono;tarde;quinta;queijo
-centro-oeste;DF;quente;nuvens;outono;tarde;quinta;bolonhesa
-norte;RR;normal;nuvens;primavera;noite;domingo;molho
-nordeste;MA;frio;nuvens;primavera;madrugada;quarta;morango
-nordeste;RN;quente;ceu claro;verao;noite;segunda;rocambole
-nordeste;BA;normal;chuva;primavera;madrugada;segunda;sopa
-centro-oeste;GO;quente;nuvens;outono;tarde;sabado;uva
-nordeste;BA;frio;ceu claro;primavera;madrugada;quinta;frango
-norte;AP;quente;nuvens;outono;madrugada;quarta;laranja
-nordeste;RN;frio;nuvens;outono;noite;quinta;bolo
-nordeste;BA;normal;ceu claro;primavera;madrugada;quinta;sopa
-norte;RR;quente;ceu claro;outono;manha;quarta;bolonhesa
-sul;PR;frio;ceu claro;outono;manha;domingo;queijo
-sudeste;ES;normal;ceu claro;inverno;manha;quarta;bolonhesa
-sudeste;MG;frio;chuva;inverno;manha;quarta;queijo
-sudeste;MG;quente;nuvens;primavera;noite;quinta;queijo
-centro-oeste;MS;frio;ceu claro;verao;tarde;sabado;sopa
-centro-oeste;MS;normal;nuvens;outono;manha;segunda;laranja
-norte;PA;quente;chuva;outono;tarde;quarta;laranja
-nordeste;RN;quente;nuvens;inverno;noite;terca;sopa
-nordeste;RN;quente;nuvens;primavera;tarde;domingo;tapioca
-norte;RR;normal;ceu claro;verao;noite;segunda;queijo
-nordeste;BA;normal;nuvens;inverno;noite;sabado;bolonhesa
-nordeste;CE;normal;chuva;verao;manha;sabado;frango
+Northeast;CE;cold;Rain;Summer;Midnight;Saturday;potato
+Northeast;PE;cold;Snow;Spring;Morning;Tuesday;hot
+Southeast;ES;warm;Thunderstorm;Summer;Morning;Thursday;tomato
+Northeast;BA;room;Thunderstorm;Summer;Morning;Wednesday;cake
+North;RR;warm;Rain;Spring;Midnight;Saturday;potato
+Southeast;ES;cold;Clear;Fall;Evening;Tuesday;fish
+Southeast;RJ;warm;Snow;Fall;Evening;Wednesday;tomato
+Northeast;BA;warm;Others;Winter;Evening;Tuesday;fish
+Central-West;MT;room;Clear;Spring;Midnight;Friday;potato
+Northeast;PB;warm;Others;Winter;Evening;Sunday;chicken
+North;AP;cold;Others;Summer;Evening;Wednesday;potato
+North;RO;cold;Rain;Summer;Evening;Monday;salad
+North;AC;room;Clouds;Summer;Evening;Wednesday;choco
+North;AC;warm;Clouds;Fall;Afternoon;Thursday;hot
+Southeast;MG;cold;Others;Winter;Afternoon;Friday;cheese
+Southeast;ES;cold;Rain;Fall;Evening;Monday;tomato
+Southeast;SP;warm;Thunderstorm;Spring;Morning;Monday;cake
+Central-West;GO;room;Others;Fall;Afternoon;Saturday;pork
+Southeast;RJ;cold;Clouds;Spring;Afternoon;Monday;potato
+South;PR;room;Others;Spring;Evening;Tuesday;meat
+North;PA;cold;Clouds;Summer;Afternoon;Monday;tomato
+Southeast;SP;room;Clouds;Winter;Midnight;Sunday;tomato
+Southeast;SP;room;Drizzle;Winter;Midnight;Monday;hot
+South;SC;warm;Thunderstorm;Summer;Midnight;Monday;veg
+South;PR;warm;Clouds;Summer;Afternoon;Thursday;potato
+Northeast;BA;warm;Snow;Winter;Morning;Sunday;cake
+North;RR;room;Clouds;Winter;Afternoon;Friday;tomato
+South;RS;warm;Others;Spring;Morning;Friday;pork
+Central-West;GO;cold;Drizzle;Fall;Morning;Tuesday;cheese
+North;RO;warm;Drizzle;Summer;Afternoon;Wednesday;cake
+Central-West;GO;room;Others;Winter;Midnight;Thursday;tomato
+Central-West;DF;warm;Thunderstorm;Winter;Evening;Friday;potato
+Southeast;SP;cold;Others;Fall;Morning;Friday;tomato
+South;RS;warm;Snow;Fall;Morning;Saturday;hot
+Northeast;PI;cold;Clear;Winter;Morning;Wednesday;choco
+Northeast;MA;cold;Rain;Summer;Morning;Thursday;tomato
+North;PA;warm;Drizzle;Winter;Morning;Friday;choco
+North;AP;room;Rain;Fall;Evening;Wednesday;soup
+Northeast;BA;cold;Drizzle;Fall;Midnight;Saturday;cheese
+North;RR;cold;Clear;Summer;Afternoon;Friday;meat
+Northeast;SE;warm;Clouds;Fall;Morning;Friday;veg
+North;AP;warm;Rain;Spring;Afternoon;Tuesday;chicken
+North;PA;warm;Drizzle;Summer;Midnight;Sunday;cheese
+Northeast;MA;warm;Snow;Spring;Midnight;Saturday;soup
+Central-West;DF;warm;Snow;Spring;Morning;Saturday;chicken
+Central-West;MS;cold;Thunderstorm;Spring;Morning;Thursday;hot
+Northeast;RN;warm;Clear;Summer;Midnight;Saturday;potato
+Northeast;PB;room;Clear;Summer;Midnight;Sunday;chicken
+North;TO;cold;Rain;Fall;Morning;Sunday;potato
+Northeast;PI;room;Clear;Summer;Evening;Thursday;choco
+Northeast;AL;room;Drizzle;Summer;Morning;Monday;salad
+Northeast;PI;room;Rain;Summer;Morning;Tuesday;pork
+Central-West;MT;cold;Others;Winter;Evening;Friday;pork
+Southeast;MG;room;Thunderstorm;Summer;Midnight;Monday;tomato
+North;AP;room;Thunderstorm;Winter;Midnight;Monday;fish
+North;AC;cold;Others;Fall;Evening;Sunday;potato
+Northeast;PE;room;Clear;Summer;Evening;Thursday;chicken
+Northeast;CE;warm;Rain;Spring;Afternoon;Wednesday;potato
+Northeast;MA;room;Drizzle;Winter;Afternoon;Thursday;salad
+South;PR;cold;Others;Winter;Midnight;Sunday;pork
+North;AP;cold;Thunderstorm;Spring;Midnight;Thursday;potato
+South;RS;warm;Drizzle;Spring;Morning;Friday;cheese
+Southeast;ES;warm;Others;Winter;Morning;Monday;hot
+Northeast;PI;warm;Clouds;Fall;Morning;Thursday;potato
+South;RS;room;Clear;Summer;Afternoon;Wednesday;pork
+North;AC;warm;Others;Summer;Morning;Wednesday;chicken
+Northeast;MA;cold;Snow;Winter;Midnight;Monday;choco
+Southeast;ES;room;Snow;Spring;Midnight;Friday;salad
+Southeast;ES;cold;Snow;Spring;Afternoon;Saturday;tomato
+North;RO;room;Thunderstorm;Winter;Morning;Friday;choco
+Southeast;ES;room;Thunderstorm;Summer;Midnight;Thursday;potato
+Northeast;PE;warm;Clouds;Fall;Midnight;Thursday;veg
+Northeast;AL;cold;Rain;Winter;Afternoon;Tuesday;hot
+Northeast;PI;room;Clouds;Spring;Afternoon;Tuesday;salad
+Northeast;SE;cold;Clouds;Summer;Afternoon;Wednesday;hot
+Central-West;GO;warm;Others;Winter;Morning;Tuesday;tomato
+North;AP;warm;Thunderstorm;Summer;Morning;Wednesday;potato
+North;AM;room;Rain;Summer;Afternoon;Tuesday;cake
+North;TO;cold;Rain;Spring;Morning;Saturday;pork
+Northeast;MA;warm;Clear;Fall;Afternoon;Tuesday;salad
+North;AC;warm;Clouds;Spring;Morning;Wednesday;veg
+Northeast;PE;warm;Rain;Winter;Afternoon;Monday;soup
+Southeast;ES;room;Rain;Summer;Midnight;Monday;soup
+North;AC;room;Clouds;Summer;Morning;Wednesday;meat
+Northeast;PI;warm;Rain;Winter;Midnight;Thursday;cheese
+Northeast;PB;cold;Clear;Fall;Afternoon;Tuesday;tomato
+Central-West;MS;room;Rain;Winter;Afternoon;Friday;hot
+Northeast;CE;room;Clear;Summer;Morning;Thursday;pork
+Northeast;CE;warm;Clouds;Summer;Afternoon;Thursday;pork
+Southeast;MG;cold;Clouds;Summer;Midnight;Monday;potato
+Northeast;MA;room;Rain;Summer;Evening;Sunday;cake
+South;PR;room;Clear;Winter;Afternoon;Wednesday;tomato
+North;AM;warm;Thunderstorm;Fall;Midnight;Wednesday;tomato
+Northeast;SE;warm;Others;Summer;Afternoon;Thursday;chicken
+North;AM;cold;Snow;Fall;Morning;Thursday;choco
+South;RS;room;Rain;Summer;Afternoon;Saturday;hot
+South;SC;cold;Drizzle;Spring;Afternoon;Wednesday;soup
+Central-West;GO;room;Others;Winter;Afternoon;Tuesday;veg
+Southeast;MG;cold;Thunderstorm;Fall;Morning;Thursday;hot
+North;TO;warm;Clear;Fall;Morning;Monday;soup
+Central-West;MT;room;Clear;Fall;Evening;Tuesday;potato
+Northeast;PB;room;Others;Winter;Afternoon;Sunday;soup
+Central-West;MS;warm;Rain;Winter;Afternoon;Monday;tomato
+Northeast;PE;room;Drizzle;Spring;Midnight;Wednesday;choco
+Southeast;RJ;warm;Clouds;Fall;Afternoon;Friday;potato
+Northeast;MA;cold;Snow;Fall;Evening;Thursday;cake
+South;RS;cold;Clouds;Winter;Midnight;Sunday;hot
+Central-West;MT;room;Thunderstorm;Summer;Midnight;Sunday;hot
+Southeast;SP;room;Others;Spring;Evening;Monday;fish
+Northeast;MA;warm;Snow;Summer;Morning;Thursday;veg
+Southeast;MG;warm;Snow;Summer;Evening;Wednesday;salad
+Northeast;CE;warm;Drizzle;Winter;Midnight;Friday;veg
+North;TO;warm;Clear;Summer;Evening;Sunday;veg
+Central-West;DF;room;Clouds;Summer;Morning;Thursday;chicken
+North;TO;cold;Drizzle;Spring;Morning;Friday;hot
+Southeast;ES;warm;Rain;Winter;Evening;Friday;tomato
+North;AC;cold;Drizzle;Winter;Evening;Tuesday;choco
+Northeast;PE;room;Thunderstorm;Summer;Morning;Saturday;cheese
+Central-West;MT;cold;Drizzle;Winter;Afternoon;Wednesday;veg
+Northeast;RN;room;Snow;Summer;Afternoon;Thursday;chicken
+Central-West;GO;room;Others;Fall;Midnight;Friday;cheese
+Southeast;RJ;cold;Thunderstorm;Winter;Midnight;Monday;soup
+Northeast;RN;cold;Thunderstorm;Winter;Afternoon;Tuesday;soup
+South;PR;cold;Drizzle;Winter;Evening;Friday;salad
+Northeast;SE;room;Drizzle;Fall;Evening;Saturday;meat
+Central-West;MS;warm;Clouds;Winter;Morning;Monday;cheese
+Southeast;MG;room;Drizzle;Winter;Midnight;Sunday;chicken
+Central-West;DF;cold;Thunderstorm;Winter;Evening;Saturday;chicken
+Northeast;MA;room;Clear;Spring;Morning;Thursday;soup
+Northeast;PB;cold;Clear;Spring;Midnight;Wednesday;salad
+South;SC;warm;Rain;Spring;Midnight;Friday;cake
+South;PR;warm;Clear;Spring;Morning;Saturday;cheese
+Central-West;GO;room;Rain;Fall;Evening;Thursday;cake
+Central-West;MS;warm;Clear;Winter;Morning;Sunday;meat
+Northeast;PI;room;Thunderstorm;Winter;Midnight;Thursday;choco
+Northeast;CE;room;Drizzle;Summer;Evening;Monday;choco
+Northeast;CE;room;Clear;Winter;Evening;Friday;meat
+Central-West;MT;cold;Rain;Winter;Afternoon;Wednesday;meat
+South;SC;room;Thunderstorm;Summer;Morning;Thursday;fish
+Northeast;MA;cold;Thunderstorm;Fall;Afternoon;Sunday;pork
+North;TO;cold;Rain;Fall;Evening;Saturday;salad
+North;RO;warm;Clear;Winter;Morning;Thursday;cake
+Northeast;MA;cold;Thunderstorm;Winter;Morning;Thursday;cake
+Northeast;MA;room;Others;Fall;Midnight;Sunday;salad
+North;RO;warm;Snow;Fall;Morning;Wednesday;potato
+Southeast;RJ;room;Thunderstorm;Winter;Afternoon;Friday;chicken
+Central-West;MT;cold;Drizzle;Spring;Afternoon;Thursday;potato
+Northeast;MA;cold;Snow;Fall;Midnight;Sunday;meat
+Southeast;ES;warm;Clouds;Summer;Morning;Monday;meat
+North;AC;room;Others;Winter;Evening;Monday;pork
+Central-West;MS;room;Clear;Spring;Midnight;Thursday;fish
+Central-West;MT;room;Rain;Fall;Afternoon;Tuesday;chicken
+Northeast;MA;warm;Clear;Spring;Morning;Tuesday;soup
+Northeast;RN;warm;Snow;Summer;Midnight;Friday;hot
+South;RS;cold;Others;Summer;Evening;Monday;tomato
+Southeast;MG;room;Snow;Fall;Evening;Sunday;tomato
+North;TO;cold;Thunderstorm;Summer;Evening;Monday;fish
+Northeast;CE;cold;Thunderstorm;Fall;Evening;Saturday;veg
+South;PR;cold;Clouds;Winter;Afternoon;Monday;tomato
+South;SC;room;Rain;Spring;Midnight;Tuesday;salad
+Southeast;ES;cold;Others;Fall;Midnight;Thursday;hot
+South;RS;room;Snow;Summer;Afternoon;Monday;tomato
+Southeast;MG;cold;Thunderstorm;Spring;Morning;Thursday;meat
+Northeast;PI;cold;Clouds;Winter;Midnight;Tuesday;chicken
+Central-West;MT;warm;Clear;Fall;Afternoon;Tuesday;choco
+South;PR;warm;Thunderstorm;Spring;Morning;Monday;choco
+South;SC;cold;Clouds;Summer;Afternoon;Saturday;soup
+North;RO;room;Drizzle;Winter;Afternoon;Friday;tomato
+North;RO;warm;Thunderstorm;Winter;Morning;Sunday;tomato
+Central-West;MT;warm;Rain;Summer;Afternoon;Saturday;hot
+Northeast;PI;warm;Snow;Spring;Afternoon;Monday;fish
+Southeast;MG;room;Others;Winter;Morning;Tuesday;salad
+South;PR;room;Rain;Fall;Afternoon;Saturday;tomato
+North;TO;room;Thunderstorm;Winter;Evening;Sunday;cake
+North;AM;cold;Drizzle;Spring;Morning;Thursday;pork
+Central-West;MS;warm;Snow;Spring;Morning;Thursday;tomato
+Northeast;RN;room;Thunderstorm;Winter;Midnight;Tuesday;soup
+North;RR;warm;Clouds;Winter;Afternoon;Monday;potato
+Northeast;BA;cold;Thunderstorm;Spring;Evening;Monday;cake
+North;AM;cold;Snow;Spring;Midnight;Monday;cheese
+North;AC;warm;Snow;Winter;Midnight;Sunday;choco
+North;AC;warm;Others;Spring;Morning;Thursday;veg
+Northeast;PE;warm;Clouds;Summer;Midnight;Thursday;salad
+North;TO;warm;Others;Fall;Midnight;Friday;meat
+Northeast;BA;cold;Thunderstorm;Fall;Afternoon;Friday;tomato
+North;AP;cold;Clear;Summer;Afternoon;Wednesday;chicken
+South;PR;warm;Drizzle;Spring;Midnight;Thursday;meat
+North;RR;room;Rain;Summer;Midnight;Saturday;hot
+Northeast;MA;warm;Clear;Winter;Morning;Tuesday;cake
+Central-West;MS;room;Snow;Spring;Afternoon;Wednesday;fish
+Central-West;DF;room;Drizzle;Summer;Evening;Wednesday;cheese
+North;RR;cold;Snow;Fall;Morning;Monday;fish
+Northeast;BA;room;Clear;Spring;Midnight;Monday;fish
+North;AP;cold;Rain;Spring;Evening;Tuesday;pork
+Central-West;MT;cold;Snow;Fall;Evening;Saturday;pork
+Northeast;PE;warm;Others;Fall;Morning;Saturday;cheese
+Central-West;MS;cold;Others;Fall;Morning;Wednesday;tomato
+North;RR;room;Rain;Spring;Afternoon;Friday;soup
+Northeast;BA;room;Clear;Summer;Evening;Tuesday;cheese
+Northeast;SE;cold;Rain;Summer;Morning;Saturday;tomato
+Southeast;SP;warm;Drizzle;Summer;Midnight;Sunday;choco
+Northeast;PB;cold;Drizzle;Fall;Midnight;Monday;veg
+Northeast;CE;room;Others;Winter;Afternoon;Friday;fish
+Northeast;BA;cold;Clouds;Winter;Afternoon;Wednesday;tomato
+North;AP;cold;Clouds;Winter;Evening;Tuesday;hot
+Southeast;RJ;room;Thunderstorm;Summer;Afternoon;Wednesday;choco
+North;AP;room;Thunderstorm;Spring;Evening;Thursday;chicken
+Southeast;SP;cold;Rain;Summer;Midnight;Sunday;cheese
+Central-West;MT;warm;Drizzle;Spring;Morning;Wednesday;cheese
+Southeast;ES;room;Snow;Spring;Midnight;Wednesday;cheese
+Central-West;GO;cold;Others;Summer;Evening;Sunday;salad
+Southeast;ES;cold;Snow;Winter;Morning;Monday;potato
+Northeast;AL;cold;Drizzle;Summer;Evening;Wednesday;choco
+Central-West;GO;cold;Others;Fall;Morning;Friday;choco
+North;AM;warm;Thunderstorm;Spring;Midnight;Sunday;salad
+Northeast;MA;cold;Rain;Winter;Afternoon;Sunday;veg
+Northeast;SE;warm;Rain;Winter;Midnight;Monday;veg
+Central-West;MT;cold;Drizzle;Summer;Midnight;Wednesday;salad
+Northeast;RN;warm;Rain;Summer;Afternoon;Thursday;hot
+Northeast;PI;warm;Drizzle;Summer;Morning;Friday;veg
+North;TO;warm;Drizzle;Spring;Afternoon;Saturday;cheese
+Northeast;MA;cold;Clear;Winter;Midnight;Tuesday;fish
+Central-West;GO;cold;Rain;Spring;Morning;Saturday;soup
+South;PR;cold;Drizzle;Summer;Afternoon;Saturday;veg
+Southeast;RJ;cold;Clouds;Summer;Morning;Friday;potato
+North;AC;warm;Rain;Spring;Morning;Saturday;pork
+Northeast;BA;cold;Thunderstorm;Fall;Evening;Thursday;veg
+Northeast;AL;cold;Clouds;Summer;Evening;Monday;cheese
+Northeast;RN;cold;Snow;Fall;Morning;Tuesday;salad
+North;RO;cold;Clouds;Spring;Afternoon;Wednesday;cake
+Northeast;RN;cold;Rain;Winter;Evening;Thursday;choco
+South;SC;cold;Others;Fall;Midnight;Tuesday;cake
+Southeast;SP;room;Thunderstorm;Fall;Evening;Wednesday;hot
+South;PR;warm;Rain;Summer;Evening;Wednesday;choco
+Southeast;SP;cold;Thunderstorm;Fall;Afternoon;Sunday;fish
+Northeast;CE;room;Clouds;Winter;Midnight;Wednesday;choco
+South;PR;warm;Snow;Winter;Afternoon;Saturday;chicken
+Northeast;BA;cold;Clouds;Spring;Midnight;Friday;cheese
+Southeast;ES;cold;Clear;Winter;Midnight;Tuesday;potato
+Southeast;ES;cold;Clear;Spring;Morning;Wednesday;tomato
+Northeast;MA;warm;Others;Fall;Midnight;Saturday;cake
+Northeast;PB;warm;Thunderstorm;Spring;Midnight;Sunday;salad
+North;AC;cold;Clear;Winter;Evening;Thursday;hot
+North;AM;cold;Thunderstorm;Fall;Evening;Wednesday;fish
+North;AM;room;Rain;Spring;Midnight;Wednesday;hot
+North;RO;room;Snow;Spring;Midnight;Monday;fish
+Northeast;SE;room;Rain;Fall;Evening;Wednesday;hot
+South;RS;room;Thunderstorm;Summer;Morning;Tuesday;potato
+North;RO;room;Drizzle;Winter;Afternoon;Saturday;cake
+Northeast;SE;warm;Clear;Summer;Morning;Saturday;choco
+Northeast;PI;cold;Clear;Fall;Afternoon;Monday;fish
+North;AP;warm;Drizzle;Spring;Morning;Monday;pork
+Northeast;RN;room;Drizzle;Fall;Afternoon;Friday;choco
+North;AP;cold;Clear;Winter;Morning;Friday;hot
+Central-West;GO;cold;Others;Summer;Evening;Thursday;chicken
+North;RO;warm;Thunderstorm;Fall;Midnight;Saturday;potato
+South;PR;warm;Snow;Fall;Evening;Sunday;choco
+North;AM;cold;Rain;Fall;Midnight;Tuesday;pork
+North;AM;cold;Drizzle;Fall;Afternoon;Monday;cheese
+South;SC;warm;Clouds;Fall;Afternoon;Thursday;pork
+North;AC;room;Thunderstorm;Summer;Morning;Sunday;hot
+Northeast;RN;room;Others;Spring;Afternoon;Saturday;potato
+Northeast;PE;cold;Thunderstorm;Winter;Afternoon;Wednesday;fish
+North;RR;room;Drizzle;Spring;Morning;Tuesday;hot
+Southeast;RJ;warm;Clear;Fall;Midnight;Sunday;hot
+Northeast;PI;room;Snow;Fall;Midnight;Wednesday;salad
+Southeast;ES;warm;Clouds;Winter;Afternoon;Tuesday;tomato
+Central-West;MS;room;Clouds;Winter;Afternoon;Monday;soup
+Northeast;SE;room;Clear;Summer;Afternoon;Tuesday;cake
+North;AC;warm;Rain;Winter;Morning;Thursday;salad
+South;PR;cold;Rain;Fall;Morning;Monday;choco
+South;RS;room;Drizzle;Winter;Evening;Wednesday;cheese
+North;AM;room;Clouds;Winter;Evening;Thursday;fish
+Southeast;SP;room;Clouds;Spring;Evening;Friday;veg
+Central-West;DF;warm;Snow;Summer;Morning;Monday;meat
+Southeast;SP;cold;Thunderstorm;Fall;Midnight;Friday;veg
+North;TO;cold;Thunderstorm;Fall;Midnight;Wednesday;soup
+North;RR;cold;Clouds;Summer;Morning;Sunday;hot
+South;PR;warm;Drizzle;Winter;Midnight;Thursday;soup
+Northeast;RN;warm;Snow;Summer;Evening;Tuesday;hot
+North;PA;warm;Clear;Summer;Midnight;Wednesday;potato
+Southeast;RJ;cold;Thunderstorm;Fall;Morning;Monday;chicken
+Southeast;SP;cold;Rain;Spring;Afternoon;Saturday;pork
+South;SC;cold;Drizzle;Fall;Morning;Sunday;potato
+South;PR;room;Rain;Fall;Evening;Wednesday;fish
+Northeast;PE;cold;Others;Summer;Morning;Thursday;chicken
+North;RO;warm;Clouds;Fall;Midnight;Saturday;potato
+South;SC;cold;Snow;Winter;Midnight;Sunday;cake
+South;RS;room;Snow;Fall;Morning;Wednesday;tomato
+Northeast;CE;warm;Thunderstorm;Spring;Morning;Tuesday;cake
+North;AM;warm;Snow;Spring;Morning;Monday;choco
+South;RS;cold;Thunderstorm;Fall;Morning;Monday;tomato
+Southeast;ES;warm;Thunderstorm;Winter;Midnight;Tuesday;cheese
+North;AC;warm;Others;Spring;Morning;Saturday;fish
+Southeast;ES;room;Rain;Winter;Morning;Wednesday;veg
+South;RS;warm;Drizzle;Spring;Afternoon;Tuesday;tomato
+North;TO;cold;Clouds;Spring;Evening;Tuesday;chicken
+North;AM;cold;Clear;Winter;Midnight;Friday;chicken
+North;AM;cold;Drizzle;Summer;Evening;Friday;pork
+Southeast;SP;cold;Clear;Summer;Midnight;Wednesday;cheese
+South;RS;room;Clouds;Winter;Evening;Tuesday;cheese
+South;SC;room;Rain;Summer;Morning;Thursday;chicken
+Northeast;SE;room;Rain;Winter;Midnight;Sunday;soup
+Southeast;SP;room;Drizzle;Winter;Afternoon;Friday;tomato
+Central-West;MT;warm;Thunderstorm;Fall;Morning;Sunday;soup
+Southeast;MG;warm;Drizzle;Spring;Afternoon;Thursday;cheese
+North;AM;warm;Snow;Winter;Midnight;Sunday;choco
+North;PA;warm;Snow;Summer;Morning;Saturday;hot
+North;RO;warm;Snow;Summer;Evening;Friday;soup
+North;TO;cold;Clear;Winter;Evening;Thursday;meat
+South;SC;warm;Snow;Winter;Midnight;Friday;cake
+Central-West;DF;cold;Rain;Winter;Evening;Wednesday;soup
+Southeast;SP;warm;Thunderstorm;Fall;Evening;Wednesday;veg
+Central-West;DF;room;Rain;Winter;Morning;Monday;hot
+North;PA;warm;Snow;Winter;Evening;Monday;chicken
+North;RR;cold;Snow;Winter;Morning;Friday;potato
+North;RR;room;Others;Winter;Evening;Saturday;veg
+South;PR;cold;Thunderstorm;Summer;Midnight;Sunday;cheese
+Northeast;PB;warm;Drizzle;Spring;Evening;Wednesday;choco
+Central-West;MT;warm;Clear;Summer;Morning;Thursday;cake
+Southeast;MG;warm;Drizzle;Summer;Morning;Monday;cake
+Central-West;DF;warm;Thunderstorm;Winter;Midnight;Saturday;veg
+Southeast;ES;warm;Clouds;Spring;Midnight;Friday;pork
+Central-West;MT;room;Snow;Fall;Morning;Sunday;hot
+North;RR;warm;Others;Fall;Midnight;Thursday;fish
+North;RO;warm;Clear;Winter;Evening;Monday;soup
+Northeast;RN;room;Snow;Winter;Evening;Thursday;fish
+Northeast;AL;cold;Snow;Summer;Midnight;Tuesday;hot
+North;AM;warm;Thunderstorm;Fall;Evening;Sunday;potato
+Northeast;AL;room;Drizzle;Winter;Evening;Friday;hot
+Southeast;ES;warm;Rain;Summer;Afternoon;Sunday;chicken
+Northeast;SE;warm;Rain;Fall;Midnight;Wednesday;hot
+Northeast;CE;room;Clear;Summer;Morning;Sunday;soup
+North;AM;room;Thunderstorm;Fall;Morning;Tuesday;cake
+Southeast;ES;cold;Clouds;Summer;Midnight;Wednesday;fish
+Northeast;MA;warm;Snow;Summer;Midnight;Saturday;tomato
+North;PA;warm;Clear;Spring;Evening;Sunday;potato
+Southeast;ES;room;Rain;Fall;Midnight;Monday;choco
+Northeast;BA;room;Drizzle;Winter;Afternoon;Friday;pork
+Southeast;ES;cold;Clouds;Fall;Afternoon;Saturday;potato
+Central-West;GO;cold;Clouds;Fall;Midnight;Sunday;cake
+Central-West;MT;cold;Others;Spring;Evening;Tuesday;veg
+North;AC;warm;Others;Summer;Afternoon;Saturday;meat
+Northeast;AL;warm;Others;Spring;Morning;Monday;pork
+Southeast;SP;cold;Clouds;Spring;Morning;Thursday;pork
+North;AP;room;Rain;Spring;Evening;Sunday;choco
+South;PR;room;Rain;Spring;Afternoon;Wednesday;choco
+Central-West;DF;cold;Clouds;Spring;Afternoon;Friday;salad
+Northeast;CE;cold;Drizzle;Fall;Afternoon;Friday;pork
+North;PA;room;Others;Winter;Midnight;Saturday;salad
+North;RO;warm;Clear;Fall;Evening;Wednesday;cheese
+Northeast;MA;cold;Others;Summer;Midnight;Thursday;soup
+Northeast;RN;warm;Clear;Winter;Evening;Sunday;cake
+Southeast;SP;warm;Others;Winter;Evening;Wednesday;cake
+North;TO;room;Clear;Fall;Morning;Wednesday;hot
+Northeast;MA;room;Snow;Fall;Afternoon;Saturday;cheese
+Central-West;MT;cold;Thunderstorm;Spring;Midnight;Saturday;cake
+Northeast;RN;warm;Rain;Winter;Morning;Monday;meat
+Northeast;SE;room;Clear;Spring;Midnight;Wednesday;pork
+Central-West;MS;cold;Clouds;Fall;Midnight;Saturday;tomato
+Northeast;PE;room;Clouds;Spring;Midnight;Wednesday;tomato
+Southeast;RJ;cold;Rain;Summer;Midnight;Saturday;cake
+Northeast;PE;cold;Thunderstorm;Fall;Midnight;Tuesday;salad
+Central-West;MS;room;Snow;Spring;Evening;Wednesday;fish
+Central-West;DF;warm;Thunderstorm;Winter;Afternoon;Tuesday;cake
+Northeast;RN;room;Rain;Fall;Afternoon;Thursday;fish
+North;RR;cold;Clear;Spring;Afternoon;Sunday;hot
+North;PA;cold;Clear;Summer;Afternoon;Friday;potato
+Southeast;ES;room;Thunderstorm;Summer;Morning;Monday;fish
+Northeast;AL;cold;Others;Fall;Afternoon;Tuesday;tomato
+Northeast;PE;warm;Rain;Spring;Midnight;Thursday;veg
+Central-West;DF;cold;Thunderstorm;Summer;Evening;Monday;meat
+North;RR;warm;Snow;Summer;Midnight;Sunday;cake
+Southeast;SP;warm;Clouds;Fall;Afternoon;Friday;choco
+North;RR;room;Clear;Fall;Afternoon;Tuesday;soup
+South;RS;cold;Clear;Spring;Morning;Monday;potato
+North;RR;room;Clear;Winter;Afternoon;Monday;potato
+Northeast;CE;cold;Thunderstorm;Winter;Afternoon;Friday;meat
+North;RO;warm;Clear;Spring;Morning;Friday;fish
+Northeast;PB;warm;Clouds;Spring;Afternoon;Thursday;veg
+Northeast;BA;room;Others;Fall;Morning;Sunday;cheese
+Southeast;RJ;warm;Drizzle;Winter;Morning;Wednesday;soup
+Northeast;RN;warm;Clear;Winter;Morning;Tuesday;hot
+Central-West;DF;room;Others;Fall;Midnight;Saturday;choco
+Central-West;MT;cold;Others;Fall;Evening;Saturday;fish
+Central-West;MS;warm;Rain;Winter;Afternoon;Sunday;veg
+South;RS;room;Drizzle;Fall;Midnight;Thursday;chicken
+South;PR;warm;Clear;Spring;Evening;Monday;pork
+South;RS;warm;Drizzle;Fall;Morning;Sunday;fish
+Northeast;MA;cold;Thunderstorm;Summer;Afternoon;Sunday;potato
+Northeast;CE;warm;Rain;Summer;Afternoon;Monday;chicken
+Northeast;BA;room;Clouds;Fall;Afternoon;Saturday;meat
+Central-West;MT;room;Thunderstorm;Summer;Evening;Monday;potato
+Northeast;RN;warm;Snow;Summer;Evening;Saturday;soup
+North;RO;warm;Clouds;Winter;Midnight;Sunday;chicken
+North;RR;warm;Rain;Summer;Evening;Friday;salad
+Southeast;ES;cold;Snow;Fall;Midnight;Friday;chicken
+South;PR;warm;Thunderstorm;Winter;Midnight;Wednesday;soup
+Northeast;PI;cold;Snow;Winter;Afternoon;Sunday;cheese
+Southeast;RJ;warm;Drizzle;Winter;Morning;Saturday;choco

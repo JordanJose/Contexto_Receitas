@@ -2,13 +2,13 @@ from datetime import datetime
 
 def get_partDay(hora_atual):
     if hora_atual >= 5 and hora_atual < 12:
-        return "manha"
+        return "Morning"
     elif hora_atual >= 12 and hora_atual < 18:
-        return "tarde"
+        return "Afternoon"
     elif hora_atual >= 18 and hora_atual < 23:
-        return "noite"
+        return "Evening"
     else:
-        return "madrugada"
+        return "Midnight"
 
     
 def get_station(data_atual):
@@ -19,10 +19,10 @@ def get_station(data_atual):
     solsticio_de_inverno = datetime(ano_atual, 6, 21)
 
     if data_atual >= equinocio_de_primavera and data_atual < solsticio_de_verao:
-        return "primavera"
+        return "Spring"
     elif data_atual >= solsticio_de_verao and data_atual < equinocio_de_outono:
-        return "verao"
+        return "Summer"
     elif data_atual >= equinocio_de_outono and data_atual < solsticio_de_inverno:
-        return "outono"
+        return "Fall"
     else:
-        return "inverno"
+        return "Winter"
