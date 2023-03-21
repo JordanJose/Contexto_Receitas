@@ -4,6 +4,7 @@ from datetime import date, datetime
 from modelo.arvore_decisao import predicao
 from ferramentas.receitas_api import get_recipe
 from ferramentas.render_cards import render_card
+from ferramentas.write_database import write_line
 
 # informações de contexto
 
@@ -46,6 +47,7 @@ recipes = get_recipe(user_predict)
 
 if user_search:
     user_recipes = get_recipe(user_search)
+    write_line([region, state, temp, weather, station, partOfDay, weekday, user_search])
     if user_recipes:
         st.subheader("Your Results")
         render_card(user_recipes)

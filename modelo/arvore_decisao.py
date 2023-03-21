@@ -19,8 +19,6 @@ dic_pesquisa = {i: texto for i, texto in enumerate(pd.unique(df_registros['pesqu
 for coluna in df_registros.columns:
     df_registros[coluna] = df_registros[coluna].replace(dic_geral[coluna])
 
-print(dic_geral)
-
 y = df_registros['pesquisa'].values
 
 X = df_registros.drop('pesquisa', axis=1).values
